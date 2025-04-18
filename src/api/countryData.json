@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "countryName": "World",
+      "capital": "No Capital",
+      "population": "8 Billion as of 2022",
+      "interestingFact": "There are 195 countries in the world today, including 193 United Nations member states and 2 observer states."
+    },
+    {
+      "id": 2,
+      "countryName": "Nepal",
+      "capital": "Kathmandu",
+      "population": 29609623,
+      "interestingFact": "Nepal is home to Mount Everest, the tallest mountain in the world, standing at 8,848 meters."
+    },
+    {
+      "id": 3,
+      "countryName": "Egypt",
+      "capital": "Cairo",
+      "population": 104258327,
+      "interestingFact": "The Pyramids of Giza are one of the Seven Wonders of the Ancient World."
+    },
+    {
+      "id": 4,
+      "countryName": "Australia",
+      "capital": "Canberra",
+      "population": 25687041,
+      "interestingFact": "Australia is home to the Great Barrier Reef, the largest coral reef system in the world."
+    },
+    {
+      "id": 5,
+      "countryName": "Brazil",
+      "capital": "Brasilia",
+      "population": 213993437,
+      "interestingFact": "Brazil is home to the Amazon Rainforest, the largest tropical rainforest in the world."
+    },
+    {
+      "id": 6,
+      "countryName": "France",
+      "capital": "Paris",
+      "population": 67407241,
+      "interestingFact": "The Eiffel Tower in Paris was once the tallest man-made structure in the world."
+    },
+    {
+      "id": 7,
+      "countryName": "Russia",
+      "capital": "Moscow",
+      "population": 1324216107,
+      "interestingFact": "Russia is the largest country in the world by area, covering more than 17 million square kilometers."
+    },
+    {
+      "id": 8,
+      "countryName": "China",
+      "capital": "Beijing",
+      "population": 1444216107,
+      "interestingFact": "The Great Wall of China is visible from space on rare occasions."
+    },
+    {
+        "id": 9,
+        "countryName": "Germany",
+        "capital": "Berlin",
+        "population": "83 million (2021)",
+        "interestingFact": "Germany is the world's second-largest exporter of goods after China."
+      },
+      {
+        "id": 10,
+        "countryName": "United Kingdom",
+        "capital": "London",
+        "population": "68 million (2021)",
+        "interestingFact": "The UK is known for its monarchy and has a long history of influence in global politics and culture."
+      },
+      {
+        "id": 11,
+        "countryName": "Italy",
+        "capital": "Rome",
+        "population": "60 million (2021)",
+        "interestingFact": "Italy is home to the most UNESCO World Heritage Sites in the world."
+      },
+      {
+        "id": 12,
+        "countryName": "Mexico",
+        "capital": "Mexico City",
+        "population": "128 million (2021)",
+        "interestingFact": "Mexico introduced chocolate, chilies, and corn to the world."
+      },
+      {
+        "id": 13,
+        "countryName": "South Korea",
+        "capital": "Seoul",
+        "population": "52 million (2021)",
+        "interestingFact": "South Korea is known for its K-pop music, which has gained massive global popularity."
+      },
+      {
+        "id": 14,
+        "countryName": "Russia",
+        "capital": "Moscow",
+        "population": "144 million (2021)",
+        "interestingFact": "Russia is the largest country by land area, spanning over 17 million square kilometers."
+      },
+      {
+        "id": 15,
+        "countryName": "China",
+        "capital": "Beijing",
+        "population": "1.4 billion (2021)",
+        "interestingFact": "China is the world's most populous country and has one of the oldest civilizations."
+      },
+      {
+        "id": 16,
+        "countryName": "Spain",
+        "capital": "Madrid",
+        "population": "47 million (2021)",
+        "interestingFact": "Spain is known for its vibrant culture, including flamenco dancing, bullfighting, and its world-famous cuisine."
+      },
+      {
+        "id": 17,
+        "countryName": "Egypt",
+        "capital": "Cairo",
+        "population": "104 million (2021)",
+        "interestingFact": "Egypt is home to the ancient pyramids, one of the Seven Wonders of the Ancient World."
+      },
+      {
+        "id": 18,
+        "countryName": "Argentina",
+        "capital": "Buenos Aires",
+        "population": "45 million (2021)",
+        "interestingFact": "Argentina is famous for its tango dance and is one of the world’s leading wine producers."
+      },
+      {
+        "id": 19,
+        "countryName": "South Africa",
+        "capital": "Pretoria, Bloemfontein, and Cape Town",
+        "population": "60 million (2021)",
+        "interestingFact": "South Africa is the only country in the world to have hosted the World Cup, the Olympic Games, and the Cricket World Cup."
+      },
+      {
+        "id": 20,
+        "countryName": "Nigeria",
+        "capital": "Abuja",
+        "population": "211 million (2021)",
+        "interestingFact": "Nigeria is the most populous country in Africa and one of the largest oil producers in the world."
+      },
+      {
+        "id": 21,
+        "countryName": "Saudi Arabia",
+        "capital": "Riyadh",
+        "population": "34 million (2021)",
+        "interestingFact": "Saudi Arabia is the birthplace of Islam and home to the two holiest cities in the religion, Mecca and Medina."
+      },
+      {
+        "id": 22,
+        "countryName": "Turkey",
+        "capital": "Ankara",
+        "population": "84 million (2021)",
+        "interestingFact": "Turkey is a transcontinental country, straddling both Europe and Asia."
+      },
+      {
+        "id": 23,
+        "countryName": "Indonesia",
+        "capital": "Jakarta",
+        "population": "276 million (2021)",
+        "interestingFact": "Indonesia is the largest archipelago in the world, with over 17,000 islands."
+      }
+  ]
